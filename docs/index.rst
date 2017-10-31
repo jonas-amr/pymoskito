@@ -8,8 +8,8 @@ Contents:
 
   introduction
   installation
+  guide/index
   examples/index
-  usage
   modules/index
   contributing
   authors
